@@ -35,4 +35,7 @@ You can also embed plots, for example:
 
 ```{r pressure_2, echo=FALSE}
 plot(pressure$temperature)
+
+plot(pressure$temperature)
+
 ```
